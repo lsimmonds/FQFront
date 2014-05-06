@@ -1,0 +1,2 @@
+<p>This is some default copy</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae iaculis libero. Donec eget accumsan nulla, eu imperdiet odio. Sed eget purus pharetra ligula pulvinar feugiat et non felis. Suspendisse at sapien eget massa dictum venenatis dapibus sit amet sapien. Phasellus feugiat rutrum faucibus. Duis rhoncus luctus malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>

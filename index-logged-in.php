@@ -1,3 +1,4 @@
+<script src="https://code.jquery.com/jquery.js"></script>
 <!DOCTYPE html>
 <html>
     <head>
@@ -44,5 +45,9 @@
         <?php include 'footer.php'; ?>
         </div>
     <?php include 'script-includes.php'; ?>
+<!-- All below added by LS -->
+<script>
+  console.log("Here with name: "+sessionStorage.email);
+</script>
 </body>
 </html>

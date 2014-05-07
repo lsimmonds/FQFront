@@ -147,7 +147,7 @@
             <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     <i class="fa fa-user"></i>
-                    <span>Jane Doe <i class="caret"></i></span>
+                    <span id="user">Jane Doe <i class="caret"></i></span>
                 </a>
                 <ul class="dropdown-menu">
                     <!-- User image -->
@@ -180,3 +180,6 @@
     </div>
 
 <div style="height:50px">&nbsp;</div>
+<script>
+  $( "#user" ).text(sessionStorage.name)
+</script>
